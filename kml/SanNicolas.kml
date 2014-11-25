@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>San Nicolas</name>
+		<Placemark>
+			<styleUrl>#icon-1141</styleUrl>
+			<name>CT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT 2000023]]></description>
+			<Point>
+				<coordinates>-60.2225876,-33.3410694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-A61B4A-6</styleUrl>
+			<name>Línea 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.2232742,-33.3407109,0.0 -60.2266645,-33.3384522,0.0 -60.2246689,-33.3363189,0.0 -60.2225018,-33.3342572,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-A61B4A-8</styleUrl>
+			<name>Línea 3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.2225018,-33.3342572,0.0 -60.19786830000001,-33.35203940000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-A61B4A-6</styleUrl>
+			<name>Línea 7</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.19786830000001,-33.35203940000001,0.0 -60.19349100000001,-33.3469489,0.0 -60.19194600000001,-33.3445828,0.0 -60.1898003,-33.3432922,0.0 -60.1897144,-33.3417864,0.0 -60.1886845,-33.3443677,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1141</styleUrl>
+			<name>CT 5</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-60.21606450000001,-33.3506055,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-A61B4A-7</styleUrl>
+			<name>Línea 9</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.21606440000001,-33.3506054,0.0 -60.20954129999999,-33.3434356,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1141</styleUrl>
+			<name>CT 6</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-60.2204418,-33.3261537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-62AF44-5</styleUrl>
+			<name>Línea 11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.2204418,-33.3261537,0.0 -60.19237520000001,-33.34573,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-1141'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-62AF44-5'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A61B4A-6'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A61B4A-7'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A61B4A-8'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

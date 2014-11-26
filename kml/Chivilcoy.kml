@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Capa sin nombre</name>
+		<Placemark>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<name>CT Repotenciado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT 0400069 de 400Kva]]></description>
+			<Point>
+				<coordinates>-60.0047198,-34.90674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<name>CT Repotenciado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT 0400268 315kva]]></description>
+			<Point>
+				<coordinates>-60.0135121,-34.8922035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<name>CT Repotenciado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT 0400400 de 200kva ]]></description>
+			<Point>
+				<coordinates>-60.01413170000001,-34.9124126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<name>CT Repotenciado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT 0400532 250Kva]]></description>
+			<Point>
+				<coordinates>-60.0113797,-34.8914048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Ampliación radio CT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amplicación radio CT 0400464]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-60.03033219999999,-34.9011021,0.0 -60.0279182,-34.8990079,0.0 -60.03032679999999,-34.8971556,0.0 -60.03275159999999,-34.89926739999999,0.0 -60.03033219999999,-34.9011021,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0BA9CC-1</styleUrl>
+			<name>Nueva LAMT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LAMT triangular protegida 95mm2]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0151241,-34.8906568,0.0 -60.018632399999994,-34.8937281,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nueva LAPE de 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0254667,-34.8915984,0.0 -60.027252999999995,-34.8931605,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nueva LAPE de 3x50/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0260675,-34.8920165,0.0 -60.0271779,-34.8929977,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x50/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.02744080000001,-34.8918801,0.0 -60.030176600000004,-34.8942649,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0281596,-34.8923201,0.0 -60.029811900000006,-34.8937633,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3X95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.02952220000001,-34.8927689,0.0 -60.0287926,-34.8933321,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x50/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0272048,-34.8933321,0.0 -60.0291467,-34.8918097,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0298601,-34.8938249,0.0 -60.0327462,-34.896324,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3X50/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0304878,-34.8945069,0.0 -60.0325638,-34.896302,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3X95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.02954359999999,-34.8952548,0.0 -60.0315499,-34.8937105,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3X50/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.03063800000001,-34.8945069,0.0 -60.0319684,-34.89349490000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x95/50/25]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0069273,-34.8946169,0.0 -60.0045669,-34.8925577,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT de 95x25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0064123,-34.8939657,0.0 -60.0046635,-34.8924697,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0063157,-34.8927337,0.0 -60.0055432,-34.893323300000006,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LABT 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.006144,-34.8927425,0.0 -60.0045079,-34.8939965,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-2</styleUrl>
+			<name>CT Nuevo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT de 250kva]]></description>
+			<Point>
+				<coordinates>-60.0052643,-34.8933497,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4B400</styleUrl>
+			<name>CT 0400537</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pasaje de cargas a CT 537 de 400 kva. desde CTs 1,3,6.]]></description>
+			<Point>
+				<coordinates>-60.01332169999999,-34.8973272,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Ampliación radio CT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pasaje de cargas a CT 0400537 de 400kva]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-60.0132734,-34.89866909999999,0.0 -60.01097200000001,-34.89668040000001,0.0 -60.012597400000004,-34.8954308,0.0 -60.014872,-34.8974328,0.0 -60.0132734,-34.89866909999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LAPE 3x95/25/50]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.026003100000004,-34.9056863,0.0 -60.0279289,-34.9041861,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4B400</styleUrl>
+			<name>CT 0400543</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pasaje de cargas a CT 543 desde CTs 19, 55.]]></description>
+			<Point>
+				<coordinates>-60.02693120000001,-34.905044000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Reest. LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[610mts de LABT reestructurada, 3x95/25/50. Perteneciente al CT 0400037]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.02629279999999,-34.8796998,0.0 -60.0311852,-34.8759679,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Reest. LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[175mts de LABT reestructurada 3x50/25/50 perteneciente al CT 112]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0323439,-34.8906392,0.0 -60.0340873,-34.8892972,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Reest. LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[97mts de LABT reestructurada 3x50/25/50 pertenecientes al CT 184]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0204188,-34.8813896,0.0 -60.0196517,-34.8807207,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Reest. LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[210mts de LABT reestructurada 3x50/25/50 pertenecientes al CT 232]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0257885,-34.9083787,0.0 -60.024189899999996,-34.9069533,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0BA9CC-1</styleUrl>
+			<name>Nuevo CUSMT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nuevo cable subterráneo de media tensión]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.018626999999995,-34.8935961,0.0 -60.01857340000001,-34.8936401,0.0 -60.018407100000005,-34.8934993,0.0 -60.0178277,-34.8939393,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0BA9CC-1</styleUrl>
+			<name>Nuevo CUSMT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nuevo cable subterráneo de media tensión]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.018609600000005,-34.8935873,0.0 -60.0185855,-34.8936049,0.0 -60.01848220000001,-34.8935125,0.0 -60.0186619,-34.8933761,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-2</styleUrl>
+			<name>CT Nuevo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nuevo CT de 250kva.]]></description>
+			<Point>
+				<coordinates>-60.0259066,-34.8931517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0BA9CC-1</styleUrl>
+			<name>Nueva LAMT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nuevo tendido de LAMT]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0257885,-34.8931429,0.0 -60.0276715,-34.8916777,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4B400</styleUrl>
+			<name>CT 0400142</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT existente 0400142]]></description>
+			<Point>
+				<coordinates>-60.02246800000001,-34.8873039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[80mts de LAPE 50 pertenecientes a una nueva salida del CT 142]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0224143,-34.8873127,0.0 -60.02132000000001,-34.8863314,0.0 -60.0229561,-34.8850817,0.0 -60.022113899999994,-34.8842984,0.0 -60.018632399999994,-34.8870266,0.0 -60.0194961,-34.8877439,0.0 -60.02132000000001,-34.8863358,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4B400</styleUrl>
+			<name>CT 0400115</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CT existente 115]]></description>
+			<Point>
+				<coordinates>-60.018503700000004,-34.90909130000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-7C3592-1</styleUrl>
+			<name>Nueva LABT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[LAPE 50 pertenecientes a nueva salida del CT 115]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-60.0184742,-34.9089792,0.0 -60.0186431,-34.908845,0.0 -60.020949800000004,-34.9108686,0.0 -60.0226235,-34.909628,0.0 -60.02029540000001,-34.9075604,0.0 -60.01855200000001,-34.9089286,0.0 -60.01691580000001,-34.90749,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Isla BT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pertenciente a la nueva salida del CT 142]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-60.022113899999994,-34.8842984,0.0 -60.0229561,-34.8850817,0.0 -60.0194961,-34.8877439,0.0 -60.018632399999994,-34.8870266,0.0 -60.022113899999994,-34.8842984,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Isla BT</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Perteneciente a la nueva salida del CT 115]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-60.02029540000001,-34.9075604,0.0 -60.0226235,-34.909628,0.0 -60.020949800000004,-34.91086860000001,0.0 -60.0186431,-34.908845,0.0 -60.02029540000001,-34.9075604,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='icon-962-F4B400'>
+			<IconStyle>
+				<color>ff00B4F4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-ci-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-ci-2'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-0BA9CC-1'>
+			<LineStyle>
+				<color>ffCCA90B</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-7C3592-1'>
+			<LineStyle>
+				<color>ff92357C</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

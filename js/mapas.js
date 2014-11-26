@@ -96,17 +96,9 @@ $.getJSON('data/Reclamos-mini.json', function (data) {
 
 	var heat = L.heatLayer(dataArray, {radius: 10}).addTo(map),
 	    draw = true;
-	map.on({
-	    movestart: function () { draw = false; },
-	    moveend:   function () { draw = true; },
-	    mousemove: function (e) {
-	        if (draw) {
-	            heat.addLatLng(e.latlng);
-	        }
-	    }
-	})
+	
 
-	var kmlLayer = new L.KML("kml/SanNicolas.kml");
+	var kmlLayer = new L.KML("kml/Chivilcoy.kml");
 
 	map.addLayer(kmlLayer);
 	map.panTo(new L.LatLng(-34.332321,-60.211002));

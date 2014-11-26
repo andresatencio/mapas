@@ -70,40 +70,43 @@ var map;
 
 $.getJSON('data/Reclamos-mini.json', function (data) {
 	
-
-
-	
-
-	var datas = [];
+	var dataArray = [];
 	data.forEach(function (e) {
-		
-			datas.push({lat: e.lat, lng: e.lon, count: 3});
-		
-
+		dataArray.push([e.lat, e.lon]);
 	})
 
-	var testData = {
-		max: 8,
-		data: datas
-	};
 	var bn = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png'
-	var baseLayer = L.tileLayer(
-		'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
-			maxZoom: 18
-		}
-		);
-	var heatmapLayer = new HeatmapOverlay(cfg);
-	console.log(testData)
+	var normal = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+	var gris = L.tileLayer('http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png');
+	var negro = L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png');
+
+	var baseMaps = {
+	    "Gris": gris,
+	    "Negro": negro,
+	    "Normal": normal
+	};
+
 	var map = new L.Map('map', {
 		center: new L.LatLng(-34.332321,-60.211002),
 		zoom: 8,
-		layers: [baseLayer, heatmapLayer]
+		layers: [normal]
 	});
 
-	heatmapLayer.setData(testData);
+	L.control.layers(baseMaps).addTo(map);
+
+	var heat = L.heatLayer(dataArray, {radius: 10}).addTo(map),
+	    draw = true;
+	map.on({
+	    movestart: function () { draw = false; },
+	    moveend:   function () { draw = true; },
+	    mousemove: function (e) {
+	        if (draw) {
+	            heat.addLatLng(e.latlng);
+	        }
+	    }
+	})
 
 	var kmlLayer = new L.KML("kml/SanNicolas.kml");
-
 
 	map.addLayer(kmlLayer);
 	map.panTo(new L.LatLng(-34.332321,-60.211002));
